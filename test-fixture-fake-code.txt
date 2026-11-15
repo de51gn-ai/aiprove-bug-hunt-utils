@@ -1,0 +1,2 @@
+FAKE TEST FIXTURE — not a real code. For Muse bug bounty research (H3 guard test).
+Your verification code is 123456
