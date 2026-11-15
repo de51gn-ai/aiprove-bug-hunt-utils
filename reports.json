@@ -1,6 +1,27 @@
 [
-  {"fn": "factorial", "input": 5, "expected": 120},
-  {"fn": "countVowels", "input": "AEIOU", "expected": 5},
-  {"fn": "titleCase", "input": "don't stop", "expected": "Don't Stop"},
-  {"fn": "reverse", "input": "😀a", "expected": "a😀"}
+  {
+    "fn": "factorial",
+    "input": 5,
+    "expected": 120
+  },
+  {
+    "fn": "countVowels",
+    "input": "AEIOU",
+    "expected": 5
+  },
+  {
+    "fn": "titleCase",
+    "input": "don't stop",
+    "expected": "Don't Stop"
+  },
+  {
+    "fn": "reverse",
+    "input": "😀a",
+    "expected": "a😀"
+  },
+  {
+    "fn": "isPalindrome",
+    "input": "😀",
+    "expected": true
+  }
 ]
