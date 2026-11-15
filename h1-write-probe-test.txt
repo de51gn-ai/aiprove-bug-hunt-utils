@@ -1,1 +1,0 @@
-H1 write-probe test file -- safe to delete. Created 2026-11-15 via direct privsep invocation.
